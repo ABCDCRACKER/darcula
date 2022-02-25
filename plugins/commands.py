@@ -528,11 +528,11 @@ async def save_template(client, message):
     
     @Client.on_message(pattern=r"lyrics ?(.*)")
 
-async def original(event):
-if not event.pattern_match.group(1)
 
 
-if not event.pattern_match.group(1):
+
+
+
 
         return await event.eor("give query to search.")
 
