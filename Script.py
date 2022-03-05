@@ -1,27 +1,28 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝗦𝗢𝗡𝗚𝗦 , 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿  or use me inline or just type music name in pm 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 MOVIE'S  , 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿  or use me inline or just type Film name in pm 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/masterolic>Team Spotify Downloa</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Miniwrap/>Team DRACULA_MOVIE_BOT </a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ FIXED !  ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Spotify Downloa have a database ( not real one ) please join !. 
-- Database - @Spotify_downloa  
+- S
+@DRACULA_MOVIE_BOT have a database ( not real one ) please join !. 
+- Database -  https://t.me/+gHSOeEsAI49jOGY1 
 
 <b>DEVS:</b>
-- <a href=https://t.me/Spotify_downloa>Team Spotify Downloa</a>"""
+- <a href=https://t.me/@Miniwrap>Team DRACULA_MOVIE_BOT</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Spotify Downloa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Spotify Downloa should have admin privillage.
+1.@DRACULA_MOVIE_BOT should have admin privillage.
 2. any one can use it ! .
 3. alert buttons have a limit of 64 characters.
 
@@ -32,7 +33,7 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Spotify Downloa Supports both url and alert inline buttons.
+- @RACULA_MOVIE_BOT Supports both filter and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -40,7 +41,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/masterolic)</code>
+<code>[Button Text](buttonurl:https://t.me/Miniwrap)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
